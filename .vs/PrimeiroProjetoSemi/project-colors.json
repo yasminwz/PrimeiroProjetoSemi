@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f81e7a0-f976-4658-a626-9bf2632817ea": {
+      "ProjectGuid": "9f81e7a0-f976-4658-a626-9bf2632817ea",
+      "DisplayName": "PrimeiroProjetoSemi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
