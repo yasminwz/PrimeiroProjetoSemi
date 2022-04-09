@@ -6,13 +6,8 @@ namespace PrimeiroProjetoSemi.Controllers
 {
     public class HomeController : Controller
     {
-        
-        public IActionResult Index()
-        {
-            return View();
-        }
 
-        public IActionResult Pagina()
+        public IActionResult Index()
         {
             return View();
         }
@@ -26,10 +21,18 @@ namespace PrimeiroProjetoSemi.Controllers
             return View(nomes);
         }
 
-
-        public IActionResult Endereco()
+        public IActionResult Contador()
         {
-            return View();
+            Quantidade.numeroDeAcessos = Quantidade.numeroDeAcessos + 1;
+            return View(Quantidade.numeroDeAcessos);
+
+
+        }
+
+        public IActionResult ZerarContador()
+        {
+            Quantidade.numeroDeAcessos = 0;
+                return RedirectToAction("Contador");
         }
 
         public IActionResult Contato()

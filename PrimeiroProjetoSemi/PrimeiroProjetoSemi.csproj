@@ -8,11 +8,12 @@
 
   <ItemGroup>
     <Compile Remove="Views\Home\Index1.cshtml.cs" />
-    <Compile Remove="Views\Home\Index2.cshtml.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Home\Formulario.cshtml" />
     <Content Remove="Views\Home\Index1.cshtml" />
+    <Content Remove="Views\Home\Pagina.cshtml" />
   </ItemGroup>
 
   <ItemGroup>

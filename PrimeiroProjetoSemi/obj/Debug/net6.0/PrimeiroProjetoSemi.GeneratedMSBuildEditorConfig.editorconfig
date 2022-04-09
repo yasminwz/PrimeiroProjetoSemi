@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Aluno\source\repos\PrimeiroProjetoSemi\PrimeiroProjetoSemi
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Contato.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
+[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Contador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Formulario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtdWxhcmlvLmNzaHRtbA==
+[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Index.cshtml]
@@ -31,8 +31,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YWdlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/Pagina.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdpbmEuY3NodG1s
+[C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Home/ZerarContador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxaZXJhckNvbnRhZG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/source/repos/PrimeiroProjetoSemi/PrimeiroProjetoSemi/Views/Shared/Error.cshtml]
